@@ -2,7 +2,7 @@
 Primeros ejercicios en Java
 1er año Tecnicatura en Desarrollo de Software
 
-Actividad 03(formatoHora):
+Actividad 1(formatoHora):
 Escribir un programa que lea la hora de un día de notación de 24 horas y genera una salida como respuesta en formato 12 horas.
 
 Actividad 2(cajero):
